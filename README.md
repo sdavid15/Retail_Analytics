@@ -28,14 +28,15 @@ For all the stores, the commodities as in the figure has a total of Zero variati
 '297 NF Aloe Vera', '357 Refrigerated Asian', '425 Seafood Catfish,'505 Beaf Thin meats', '566 Exotic',
 '755 Outdoor storage and pet','The seafood snapper' and '971 Video games Hardware.
 
-Variance for all the stores for the commodities from perpetual value is 3000.44. 
-Variance simply means how far the numbers are spread in a given data set from their average value.
-So bigger the spread, more the variation which results in a larger gap between the values in the data set.
+Analysis did show that there were large number of outliers with the 25th percentile value of Adjustment Unit quantity as -1 and 75th percentile as 1.
+
+In the retail business, it is good to keep and analyse outliers to assess the demand ofcommodities and to take advantage of high demands and find out why the demands are low. The demands in-turn reflects the effect on the profit and loss for the stores.
+
+Besides individual max and min Unit variations, the sum of all the variations by commodity, or by grouping with store or GTIN, the supplier get a perspective of the variations for a set period and can investigate for the outliers for the cause and the impact on the profit or loss and reducing unnecessary inventory.
 
  
-Standard  deviation for all the stores for it's commodities from perpetual value  is 54.78
-Standard deviation simply measures the spread of data around the mean and is calculated by simply 
-taking the square root of the variance. So, using the Standard Deviation we have a "standard" way of knowing 
-what is normal, and what is extra large or extra small.
+
+ 
+ 
 
  
